@@ -1,0 +1,21 @@
+C:\Users\William.Miller.WASD\AppData\Local\Temporary Projects\About_Me\bin\Debug\About_Me.exe.config
+C:\Users\William.Miller.WASD\AppData\Local\Temporary Projects\About_Me\bin\Debug\About_Me.exe
+C:\Users\William.Miller.WASD\AppData\Local\Temporary Projects\About_Me\bin\Debug\About_Me.pdb
+C:\Users\William.Miller.WASD\AppData\Local\Temporary Projects\About_Me\obj\Debug\About_Me.frmAboutMe.resources
+C:\Users\William.Miller.WASD\AppData\Local\Temporary Projects\About_Me\obj\Debug\About_Me.Properties.Resources.resources
+C:\Users\William.Miller.WASD\AppData\Local\Temporary Projects\About_Me\obj\Debug\About_Me.csproj.GenerateResource.Cache
+C:\Users\William.Miller.WASD\AppData\Local\Temporary Projects\About_Me\obj\Debug\About_Me.exe
+C:\Users\William.Miller.WASD\AppData\Local\Temporary Projects\About_Me\obj\Debug\About_Me.pdb
+C:\Users\William.Miller.WASD\OneDrive\school\CP Computer Programming\About_Me\About_Me\bin\Debug\About_Me.exe.config
+C:\Users\William.Miller.WASD\OneDrive\school\CP Computer Programming\About_Me\About_Me\obj\Debug\About_Me.exe
+C:\Users\William.Miller.WASD\OneDrive\school\CP Computer Programming\About_Me\About_Me\obj\Debug\About_Me.pdb
+C:\Users\WillMill99\Desktop\OneDrive-2022-09-03\About_Me\About_Me\bin\Debug\About_Me.exe.config
+C:\Users\WillMill99\Desktop\OneDrive-2022-09-03\About_Me\About_Me\bin\Debug\About_Me.exe
+C:\Users\WillMill99\Desktop\OneDrive-2022-09-03\About_Me\About_Me\bin\Debug\About_Me.pdb
+C:\Users\WillMill99\Desktop\OneDrive-2022-09-03\About_Me\About_Me\obj\Debug\About_Me.csproj.AssemblyReference.cache
+C:\Users\WillMill99\Desktop\OneDrive-2022-09-03\About_Me\About_Me\obj\Debug\About_Me.frmAboutMe.resources
+C:\Users\WillMill99\Desktop\OneDrive-2022-09-03\About_Me\About_Me\obj\Debug\About_Me.Properties.Resources.resources
+C:\Users\WillMill99\Desktop\OneDrive-2022-09-03\About_Me\About_Me\obj\Debug\About_Me.csproj.GenerateResource.cache
+C:\Users\WillMill99\Desktop\OneDrive-2022-09-03\About_Me\About_Me\obj\Debug\About_Me.csproj.CoreCompileInputs.cache
+C:\Users\WillMill99\Desktop\OneDrive-2022-09-03\About_Me\About_Me\obj\Debug\About_Me.exe
+C:\Users\WillMill99\Desktop\OneDrive-2022-09-03\About_Me\About_Me\obj\Debug\About_Me.pdb
